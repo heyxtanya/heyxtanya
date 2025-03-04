@@ -4,11 +4,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </p>
 
-<p align="center">
-  🎓 Master's Student in Computer Science at <strong>Northeastern University</strong> <br>
-  💼 Actively seeking <strong>2025 Software Engineering Co-op or Internship</strong> opportunities <br>
-  🌍 Passionate about Backend Development, Distributed Systems & Cloud Computing <br>
-</p>
+### 💻 About Me
+```java
+public class Tanya {
+    public static void main(String[] args) {
+        System.out.println("Hello, World! I'm Tanya Zhao.");
+        System.out.println("💻 Passionate about Backend Development & Cloud Computing.");
+        System.out.println("🚀 Currently seeking 2025 Software Engineering Co-op or Internship.");
+        System.out.println("🌱 Learning Kubernetes, Microservices, and System Design.");
+    }
+}
 
 ---
 
