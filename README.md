@@ -35,19 +35,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=heyxtanya&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=heyxtanya&theme=tokyonight" />
-</p>
-
----
-
-### 🎯 Fun Facts
-- 🏆 Solved **800+ LeetCode problems**.
-- 🎯 Learning **Kubernetes & System Design**.
-- 💡 Passionate about **high-scale backend development**.
-
----
-
 ⭐ **Thanks for visiting my GitHub profile! Feel free to connect!** 😊
