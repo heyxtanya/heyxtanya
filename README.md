@@ -1,39 +1,31 @@
-<h1 align="center">👋 Hey, I'm Tanya!</h1>
+<h1 align="center">Hi, I'm Tanya Zhao! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  <br>
-  Software Engineer | Problem Solver | Algorithm Enthusiast 🚀
+</p>
+
+<p align="center">
+  🎓 Master's Student in Computer Science at <strong>Northeastern University</strong> <br>
+  💼 Actively seeking <strong>2025 Software Engineering Co-op or Internship</strong> opportunities <br>
+  🌍 Passionate about Backend Development, Distributed Systems & Cloud Computing <br>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎯 **Passionate about algorithms & backend development.**
-- 💻 Solving **LeetCode problems** & **preparing for SDE interviews**.
-- 🚀 Love **Java, Spring Boot, and System Design**.
-- 🌍 Open to new opportunities in **backend & cloud engineering**.
-- 🎵 Enjoying **K-Pop & Lo-Fi music** while coding.
-
----
-
-### 📫 Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://leetcode.com/your-leetcode-profile">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="mailto:2093336837@qq.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/your_instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 🛠 Tech Stack:
-<p align="left">
+### 🛠 Tech Stack
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -43,19 +35,19 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=heyxtanya&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=heyxtanya&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=heyxtanya&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=heyxtanya&theme=tokyonight" />
 </p>
 
 ---
 
-### 🎯 Fun Facts:
+### 🎯 Fun Facts
 - 🏆 Solved **800+ LeetCode problems**.
-- 🎯 Exploring **Kubernetes & Microservices**.
-- 💡 Always happy to **connect & collaborate**!
+- 🎯 Learning **Kubernetes & System Design**.
+- 💡 Passionate about **high-scale backend development**.
 
 ---
 
-⭐ **Feel free to connect with me & check out my projects!** 😊
+⭐ **Thanks for visiting my GitHub profile! Feel free to connect!** 😊
