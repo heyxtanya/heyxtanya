@@ -4,16 +4,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </p>
 
-### 💻 About Me
-```java
-public class Tanya {
-    public static void main(String[] args) {
-        System.out.println("Hello, World! I'm Tanya Zhao.");
-        System.out.println("💻 Passionate about Backend Development & Cloud Computing.");
-        System.out.println("🚀 Currently seeking 2025 Software Engineering Co-op or Internship.");
-        System.out.println("🌱 Learning Kubernetes, Microservices, and System Design.");
-    }
-}
+---
+
+### 🖥️ Code Like a Programmer 💻
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C4F7&width=600&lines=System.out.println(%22Hello,+World!%22);;public+class+Tanya+{...};Backend+Developer+%7C+Cloud+Computing+%7C+SDE+Intern+Seeking+2025;Open+to+Collaboration!">
+</p>
 
 ---
 
