@@ -6,9 +6,10 @@
 
 ---
 
-### 🖥️ Code Like a Programmer 💻
+### 💻 Code Like a Programmer
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C4F7&width=600&lines=System.out.println(%22Hello,+World!%22);;public+class+Tanya+{...};Backend+Developer+%7C+Cloud+Computing+%7C+SDE+Intern+Seeking+2025;Open+to+Collaboration!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&width=650&lines=public+class+TanyaZhao+{...};System.out.println(%22Welcome+to+my+GitHub!%22);Searching+for+2025+Software+Engineering+Internships;Backend+Development+|+Distributed+Systems+|+Cloud+Computing" />
 </p>
 
 ---
