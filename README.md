@@ -29,7 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30px">
 </p>
 
-⭐ **Thanks for visiting my profile! Feel free to connect!** 😊  
+<p align="center">
+  ⭐ **Thanks for visiting my profile! Feel free to connect!** 😊  
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tianjiazhao/" target="_blank">
