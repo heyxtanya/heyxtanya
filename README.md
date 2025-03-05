@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  ⭐ **Thanks for visiting my profile! Feel free to connect!** 😊  
+  ⭐ Thanks for visiting my profile! Feel free to connect! 😊  
 </p>
 
 <p align="center">
