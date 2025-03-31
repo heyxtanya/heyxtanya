@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tanya Zhao!</h1>
 
-- 🎓 Master's student in **Computer Science** at **Northeastern University**, GPA **4.0**  
+🎓 Master's student in **Computer Science** at **Northeastern University**, GPA **4.0**  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px">
