@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Tanya Zhao!</h1>
 
 - 🎓 Master's student in **Computer Science** at **Northeastern University**, GPA **4.0**  
-- 💼 2x SDE Intern in Canada, experienced in backend development  
-- 🔍 Interested in **backend engineering, distributed systems, microservices, and cloud infrastructure**  
-- 🚀 Passionate about building scalable and efficient software solutions  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px">
